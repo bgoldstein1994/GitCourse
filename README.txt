@@ -1,5 +1,1 @@
-Hello, Git 
-Hello hello!
-
-Whoooaaaaaaaa
-hurray!
+Just a readme file.
